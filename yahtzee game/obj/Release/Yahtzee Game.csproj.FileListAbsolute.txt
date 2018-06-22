@@ -1,0 +1,18 @@
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.exe.config
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.exe
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.pdb
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee_Game.Yahtzee.resources
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee_Game.Properties.Resources.resources
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.csproj.GenerateResource.Cache
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.exe
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.pdb
+E:\Documents\Personal\Yahtzee Version 4\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.exe.config
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.exe
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.pdb
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.exe
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\bin\Release\Yahtzee Game.pdb
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee_Game.Yahtzee.resources
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee_Game.Properties.Resources.resources
+C:\Users\Jordan\Google Drive\QUT\2016\CAB201\Assessment 04 (40%)\Yahtzee Version 4\Yahtzee Game\obj\Release\Yahtzee Game.csproj.GenerateResource.Cache
