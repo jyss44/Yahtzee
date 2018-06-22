@@ -1,7 +1,7 @@
 # Yahtzee
 A windows form application for playing Yahtzee
 
-![GUi image](SampleImage.png)
+![GUI image](SampleImage.PNG)
 
 Up to six players can play a game according to the rules of [Yahtzee](http://www.yahtzee.org.uk/rules.html).
 
@@ -9,6 +9,10 @@ Users are able to save & load games to a file, in case players want to continue 
 
 ## Source code structure
 This project was designed around the principles of object oriented programming. An executable can be found in the [release folder](https://github.com/jyss88/Yahtzee/tree/master/Release). The source code can be found in the folder [yahtzee game](https://github.com/jyss88/Yahtzee/tree/master/yahtzee%20game).
+
+Below is a UML diagram of classes in the source code.
+
+![UML Diagram](UMLdiagram.PNG)
 
 ### Game
 The Game class represents the game of Yahtzee itself. It handles:
