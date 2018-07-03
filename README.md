@@ -14,7 +14,7 @@ Below is a UML diagram of classes in the source code.
 
 ![UML Diagram](UMLdiagram.PNG)
 
-### Game
+### [Game](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/Game.cs)
 The Game class represents the game of Yahtzee itself. It handles:
 
 * Creation of Player objects
@@ -23,37 +23,37 @@ The Game class represents the game of Yahtzee itself. It handles:
 * Player interactions with GUI (rolling dice, selecting scores)
 * Loading and saving of games
 
-### Die
+### [Die](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/Die.cs)
 The Die class represents a die for use in the game of Yahtzee. A dice can be 'rolled', to obtain a random number between 1 and 6. 
 
 Die objects also have an attached Windows Form label, which is automatically updated with the value of the die.
 
-### Player
+### [Player](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/Player.cs)
 The Player class represents a player of the game. A Player object contains a name, a grand total score, and an array of Score objects. 
 
 The Player class mainly handles the calculation of an individual player's score. 
 
-### Score
+### [Score](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/Score.cs)
 The Score class is an abstract class representing the different score types in the Yahtzee game. 
 
-A Score object computes the individual score value, based on the face value of input dice. Score objects are tied to a 
+A Score object computes the individual score value, based on the face value of input dice. Score objects are tied to a label in the form, which displays the value of said score.
 
 Score is subclassed to the following:
 
-#### Combination
+#### [Combination](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/Combination.cs)
 The Combination class is an abstract subclass of Score, which represents single dice combination. Combination is subclassed to the following:
 
-##### CountingCombination
+##### [CountingCombination](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/CountingCombination.cs)
 The CountingCombination class represents a scoring combination that counts the number of a single die value in the five dice. 
 In terms of Yahtzee scores, this corresponds to Ones, Twos, Threes, etc.
 
-##### FixedScore
+##### [FixedScore](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/FixedScore.cs)
 The FixedScore class represents scoring combinations that have a fixed number as a score. This includes a Small Straight, Large Straight, Full House, and Yahtzee.
 
-##### TotalOfDice
+##### [TotalOfDice](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/TotalOfDice.cs)
 The TotalOfDice class represents scoring combinations where the score is the total of the dice face values. This includes 3 of a kind, 4 of a kind, and Chance combinations.
 
-#### BonusOrTotal 
+#### [BonusOrTotal](https://github.com/jyss88/Yahtzee/blob/master/yahtzee%20game/BonusOrTotal.cs) 
 This is a subclass of the Score class. This represents a score which is either a bonus, a sub-total, or total score of a section. This includes the sub total, a 63+ points bonus, totals for section A and B, a Yahtzee bonus, and the grand total score.
 
 ## Acknowledgements
